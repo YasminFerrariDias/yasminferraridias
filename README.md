@@ -1,8 +1,10 @@
 ## Yasmin Ferrari Dias
 
-<p>Desenvolvedora Front-End com base sólida em back-end, formada em Técnico de Informática e estudante de Engenharia de Software na SATC.
+<p>Desenvolvedora Full-Stack com foco em front-end e base sólida em back-end, formada em Técnico de Informática e estudante de Engenharia de Software na SATC.
 Além do código, tenho experiência com levantamento de requisitos, modelagem de banco de dados, diagramas, testes e integração com IA.
-Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expandindo o repertório. Também tenho olhar para design de interfaces e experiência com UI.</p>
+Já trabalhei com ferramentas como Delphi, Android Studio e JavaFX, e estou sempre expandindo o repertório. Também tenho olhar para design de interfaces e experiência com UI.</p>
+
+<p>Atualmente estou aprofundando meus estudos em Java com Spring Boot.</p>
 
 <br>
 
@@ -39,6 +41,7 @@ Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expan
   <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
   <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
